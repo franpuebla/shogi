@@ -17,7 +17,7 @@ Jinja2==2.8
 jsonschema==2.6.0
 MarkupSafe==0.23
 mimerender==0.5.5
-mistune==0.7.4
+mistune==0.8.1
 packaging==16.8
 PyJWT==1.4.2
 pyparsing==2.1.10
