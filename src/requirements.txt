@@ -13,7 +13,7 @@ Flask-Testing==0.4.2
 functools32==3.2.3-2
 httpretty==0.8.10
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jsonschema==2.6.0
 MarkupSafe==0.23
 mimerender==0.5.5
